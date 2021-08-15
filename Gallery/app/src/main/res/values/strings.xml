@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Gallery</string>
+
+    <string name="filename1">Image 1.jpg</string>
+    <string name="filename2">Image 2.jpg</string>
+    <string name="filename3">Image 3.jpg</string>
+    <string name="filename4">Image 4.jpg</string>
+    <string name="filename5">Image 5.jpg</string>
+    <string name="filename6">Image 6.jpg</string>
+    <string name="filename7">Image 7.jpg</string>
+    <string name="filename8">Image 8.jpg</string>
+    <string name="filename9">Image 9.jpg</string>
+    <string name="filename10">Image 10.jpg</string>
+    <string name="filename11">Image 11.jpg</string>
+
+    <string name="file_type_description_archive">Archive File</string>
+    <string name="file_type_description_pdf">Pdf File</string>
+    <string name="file_type_description_photo">Image File</string>
+    <string name="file_type_description_txt">Text File</string>
+    <string name="file_type_description_video">Video File</string>
+    <string name="file_type_description_unknown">Unknown File Type</string>
+</resources>
